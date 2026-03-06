@@ -34,18 +34,8 @@
 
 ---
 
-## 📂 Featured Projects
-
-### 🐾 [LoadRunner — JPetStore Purchase Pet Animal](https://github.com/theva1211/thevasharma)
-An end-to-end VuGen performance test script simulating a complete pet purchasing workflow on JPetStore. Includes dynamic correlation (JSESSIONID, CSRF tokens), data-driven parameterisation, random product selection, and content verification across 10 transactions.
-
-**Techniques:** `web_reg_save_param_ex` | `lr_paramarr_random` | Data-Driven Testing | Transaction-based Measurement
-
----
-
 ## 🎯 Currently Working On
 
-- 📋 Delivering an 8-week Manual QA & Functional Testing training programme for junior team members
 - 🔧 Enhancing LoadRunner scripting skills — correlation, parameterisation, and error handling
 - 🤖 Learning Automation Testing with Selenium WebDriver & Python
 - 🎥 Running a daily journaling series on TikTok
