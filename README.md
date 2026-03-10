@@ -24,7 +24,7 @@
 
 | Area | Tools & Skills |
 |------|---------------|
-| Performance Testing | LoadRunner Professional, VuGen, Controller, Analysis |
+| Performance Testing | LoadRunner Professional, VuGen, Controller, Analysis, Apache JMeter |
 | Automation Testing | Selenium WebDriver, Python, Java, pytest |
 | Manual & Functional | JIRA, Test Planning, EP, BVA, Decision Tables, Exploratory Testing |
 | API Testing | Postman, REST Assured |
